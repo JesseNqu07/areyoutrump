@@ -2,7 +2,7 @@
 ### Are you Trump Library
 
 
-##Usage
+#Usage
 ```js
 WillYouBecomeThePresidentOfUSA("Nam") //false
 ```
