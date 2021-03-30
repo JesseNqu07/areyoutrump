@@ -3,6 +3,6 @@
 
 
 ##Usage
-```
+```js
 WillYouBecomeThePresidentOfUSA("Nam") //false
 ```
