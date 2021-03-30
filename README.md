@@ -3,5 +3,6 @@
 
 
 ##Usage
-```WillYouBecomeThePresidentOfUSA("Nam") //false
+```
+WillYouBecomeThePresidentOfUSA("Nam") //false
 ```
